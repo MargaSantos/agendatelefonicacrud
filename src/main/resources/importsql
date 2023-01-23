@@ -1,0 +1,5 @@
+INSERT INTO agenda_telefonica(id_agenda, nome, email, telefone) VALUES (1, 'Ruan', 'ruan@gmail.com', '(81)11111-1111');
+INSERT INTO agenda_telefonica(id_agenda, nome, email, telefone) VALUES (2, 'Gustavo', 'gustavo@gmail.com', '(81)22222-2222');
+INSERT INTO agenda_telefonica(id_agenda, nome, email, telefone) VALUES (3, 'Uel', 'uel@gmail.com', '(81)33333-3333');
+INSERT INTO agenda_telefonica(id_agenda, nome, email, telefone) VALUES (4, 'Gilberto', 'gilberto@gmail.com', '(81)44444-4444');
+INSERT INTO agenda_telefonica(id_agenda, nome, email, telefone) VALUES (5, 'Mariane', 'mariane@gmail.com', '(81)55555-5555');
